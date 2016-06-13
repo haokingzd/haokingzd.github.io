@@ -24,6 +24,13 @@ var ap4 = new APlayer({
             url: 'http://7xthft.com1.z0.glb.clouddn.com/Sara%20Pungprasert%20-%20Loum%20Pai%20Roue%20Plow.mp3',
             pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg'
         }
+        ,
+        {
+            title: 'Living to love you',
+            author: 'Sarah Connor',
+            url: 'http://7xthft.com1.z0.glb.clouddn.com/Sarah%20Connor%20-%20Living%20To%20Love%20You%20-%20Single%20Version.mp3',
+            // pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg'
+        }
     ]
 });
 ap4.init();
