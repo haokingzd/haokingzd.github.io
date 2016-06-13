@@ -2,9 +2,6 @@
     font-family: "Windsong";
     src: url('../font/Windsong.ttf');
 
-    font-family: "RawengulkSans";
-    src: url('../font/RawengulkSans-094.otf');
-
     font-family: "Existence";
     src: url('../font/Existence-Light.otf');
 }
@@ -110,7 +107,7 @@
     height: 555px;
     /*margin-top: 20px;*/
     position: absolute;
-    background-image: url('../images/01.pic.jpg');
+    background-image: url('../images/king2.pic.jpg');
     background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
@@ -218,7 +215,7 @@
     margin: 0;
     padding-left: 1px;
     color: #dddddd;
-    font-family: 'RawengulkSans';
+    font-family: 'helvetica';
     font-weight: 100;
     font-size: 30px;
     letter-spacing: .4em;
@@ -549,7 +546,8 @@
     font-size: 30px;
     font-weight: 200;
     text-transform: uppercase;
-    color: rgb(203, 203, 203);
+    color: rgb(228, 228, 228);
+    letter-spacing: .05em;
 }
 .cen {
     display: flex;
