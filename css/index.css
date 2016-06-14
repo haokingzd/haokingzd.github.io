@@ -1,7 +1,6 @@
 @font-face {
     font-family: "Windsong";
     src: url('../font/Windsong.ttf');
-
     font-family: "Existence";
     src: url('../font/Existence-Light.otf');
 }
@@ -93,7 +92,6 @@
     cursor: crosshair;
     color: rgba(0, 122, 236, 0.5);
 }
-
 #pic3 {
     background-image: url('../images/sea.jpg');
     background-repeat: no-repeat;
@@ -155,7 +153,6 @@
     background-size: cover;
     opacity: .7;
 }
-
 #bg1 {
     background-image: url('../images/flower3.jpg');
 }
@@ -615,12 +612,12 @@
 }
 
 /*music*/
+
 .musicontainer {
     max-width: 15rem;
     margin-left: auto;
     opacity: 0.09;
 }
-
 #player4 {
     margin: 0;
 }
