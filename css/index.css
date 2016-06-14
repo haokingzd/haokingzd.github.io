@@ -607,3 +607,14 @@
 .FourthPageBottom>a:hover {
     color: rgb(148, 148, 148);
 }
+
+/*music*/
+.musicontainer {
+    max-width: 15rem;
+    margin-left: auto;
+    opacity: 0.09;
+}
+
+#player4 {
+    margin: 0;
+}
