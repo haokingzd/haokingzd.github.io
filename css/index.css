@@ -95,7 +95,7 @@
 }
 
 #pic3 {
-    background-image: url('../images/sea.jpeg');
+    background-image: url('../images/sea.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -302,7 +302,7 @@
     width: 100%;
     top: 50%;
     /*background-color: rgb(62, 86, 113);*/
-    background-image: url('../images/catt.png');
+    background-image: url('../images/catt.jpg');
     opacity: 1;
     background-position: center center;
     background-repeat: no-repeat;
@@ -348,7 +348,7 @@
     width: 50%;
     position: absolute;
     left: 50%;
-    background-image: url('../images/mountain.jpeg');
+    background-image: url('../images/mountain.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -407,7 +407,7 @@
     height: 100%;
     width: 50%;
     left: 50%;
-    background-image: url('../images/star.jpeg');
+    background-image: url('../images/star.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -494,7 +494,7 @@
     position: absolute;
     right: 0;
     height: 100%;
-    background-image: url('../images/star.jpeg');
+    background-image: url('../images/star.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -522,7 +522,7 @@
     position: absolute;
     left: 0;
     height: 100%;
-    background-image: url('../images/star.jpeg');
+    background-image: url('../images/star.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
